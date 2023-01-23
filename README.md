@@ -10,7 +10,6 @@
 3. Open th repository in Visual Studio Code.
 
 ## Usage
-md
 ![Screenshot of the webpage](assets/images/password-web.JPG)
 https://daniferru.github.io/password-generator/
 
